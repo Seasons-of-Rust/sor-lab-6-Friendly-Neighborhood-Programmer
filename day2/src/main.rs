@@ -23,7 +23,7 @@ fn main() {
 
     println!(
         "The final code for part 2 is {:?}",
-        find_answer(numbers.clone(), 19690720)
+        find_answer(numbers, 19690720)
     );
 }
 
